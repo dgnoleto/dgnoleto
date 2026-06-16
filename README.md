@@ -1,33 +1,43 @@
-Olá! Eu sou o **Danilo** 👋
+# Olá! Eu sou o Danilo 👋
 
-Bem-vindo ao meu GitHub! Sou um Product Owner com experiência na gestão de produtos e otimização de processos, atualmente focado em desenvolver minhas habilidades na área de dados. Tenho interesse em trabalhar com Business Intelligence (BI), análise de dados e automação de processos.
+Bem-vindo ao meu GitHub! Sou Product Manager e Gerente de Projetos de TI com sólida experiência na liderança de ecossistemas digitais complexos, plataformas SaaS de alta escala e governança de engenharia. 
 
-Sobre Mim
-💼 **Experiência:** 9 anos atuando com sistemas de ERP, e-commerce, Business Analytics e suporte técnico. Trabalhei com grandes projetos, sempre com foco em otimização e transformação digital.
+Minha abordagem técnica une a gestão de produto orientada a dados com a automação de processos internos e governança prática de Inteligência Artificial para eliminar gargalos e trazer previsibilidade técnica.
 
-🧑‍💻 **Áreas de Interesse:** Ciência de Dados, BI, Machine Learning, SQL, Python.
+---
 
-📈 **Dados:** Estou aprimorando minhas habilidades em Python para manipulação de dados e SQL para consultas complexas em banco de dados.
+## 💼 Sobre Mim & Atuação Técnica
 
-🌍 **Idiomas:** Inglês e Francês (nível intermediário).
+*   **Experiência em Produto e Processos:** Trajetória sólida liderando múltiplos squads (Web, Mobile e módulos Financeiros/Operacionais), conduzindo Discovery de ponta a ponta e definindo PRDs robustas com forte blindagem de escopo técnico.
+*   **Automação de Esteiras de Valor:** Desenvolvedor de fluxos autônomos de integração e auditoria de processos (n8n, APIs), conectando ferramentas de negócios (HubSpot) a ambientes de engenharia (GitHub) para eliminar 100% do atrito manual de triagem.
+*   **Governança de IA Prática:** Implementação de ferramentas de IA Generativa aplicada (Claude Code) associada a frameworks de decisão técnica (`decision.md`) para análise de impacto e neutralização de pontos cegos de arquitetura a curto e longo prazo.
+*   **Engenharia de Requisitos para Legados:** Uso de modelagem de grafos de conhecimento (GraphiPy) combinada com IA para mapeamento de dependências complexas e recuperação de regras de negócio em sistemas obsoletos ou sem histórico ativo.
 
-Habilidades
-Análise de Dados: Utilizo SQL e Python para extrair, transformar e analisar dados, buscando insights que possam otimizar processos de negócios.
+---
 
-Business Intelligence (BI): Criação de dashboards e relatórios utilizando ferramentas como Power BI e Tableau.
+## 🛠️ Habilidades Técnicas & Ferramentas
 
-Gestão de Produtos: Liderança em projetos de ERP e e-commerce, com foco na satisfação do cliente e eficiência operacional.
+*   **Dados & BI:** SQL Avançado (T-SQL / SQL Server), Python para manipulação/análise de dados, Power BI, Business Intelligence.
+*   **Automação & IA:** Integrações via n8n, Engenharia de Prompts com foco em Governança, GraphiPy (Análise de Grafos), Claude Code.
+*   **Frameworks de Gestão:** Scrum, Kanban, Governança de Portfólio, Gestão de Riscos, Escrita de User Stories (Gherkin).
 
-Ferramentas: SQL, Python, Power BI, Tableau, Excel avançado, Scrum, Kanban, Jira.
+---
 
-Como me encontrar
+## 🌍 Idiomas
+*   **Português:** Nativo.
+*   **Inglês:** Prático / Leitura e escrita técnica voltada à documentação de software.
 
-LinkedIn: www.linkedin.com/in/danilo-gomes-nolêto-2a60b8108
+---
 
-E-mail: danilonoleto_@hotmail.com
+## 📩 Como me encontrar
 
-Vamos Colaborar!
-Estou aberto a colaborações em projetos relacionados a análise de dados, automação de processos ou qualquer coisa que envolva melhorar a eficiência e uso de dados nas empresas. Se tiver uma ideia interessante ou precisar de ajuda em algum projeto, sinta-se à vontade para me contatar!
+*   **LinkedIn:** [linkedin.com/in/danilog-noleto](https://www.linkedin.com/in/danilog-noleto)
+*   **E-mail:** danilonoleto_@hotmail.com
+
+---
+
+## 🤝 Vamos Colaborar!
+Estou aberto a conexões e discussões sobre engenharia de processos, gestão de produtos de dados (Data/AI Products), automação de fluxos operacionais e otimização de grandes ecossistemas de tecnologia. Sinta-se à vontade para abrir uma issue ou entrar em contato!
 
 <!---
 dgnoleto/dgnoleto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
