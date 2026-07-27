@@ -2,56 +2,76 @@
 
 Siga-me no [LinkedIn](https://www.linkedin.com/in/danilog-noleto) | Contato: danilonoleto_@hotmail.com
 
-Bem-vindo ao meu GitHub! Sou Product Manager e Gerente de Projetos de TI com uma trajetória de mais de 14 anos na área de tecnologia. Minha carreira não começou em laboratório ou em cargos diretos de gestão: **construí minha base técnica na raça, vindo do suporte técnico, implantação de ERP e inteligência de dados até me tornar referência na liderança de ecossistemas digitais B2B complexos e governança de Inteligência Artificial[cite: 1].**
+Bem-vindo ao meu GitHub! Sou **Product Manager / AI Product Manager** com mais de 14 anos de trajetória em tecnologia. Minha carreira não começou em laboratório ou em cargos diretos de gestão: **construí minha base técnica na raça, vindo do suporte técnico, implantação de ERP e inteligência de dados até me tornar referência na liderança de ecossistemas digitais B2B/B2B2C complexos e governança de Inteligência Artificial.**
 
-Essa bagagem "raiz" me permite traduzir regras complexas e rígidas de negócios em soluções técnicas previsíveis, conversando de igual para igual com times de engenharia de software e arquitetura de dados[cite: 1].
+Essa bagagem "raiz" me permite traduzir regras complexas e rígidas de negócios em soluções técnicas previsíveis, conversando de igual para igual com times de engenharia de software e arquitetura de dados.
 
 ---
 
-## 🚀 Linha do Tempo & Projetos de Destaque (Meu Portfólio)
+## ⚡ Resultados de Impacto Em Destaque
+
+> *"Não apenas utilizo IA no dia a dia: crio governança e infraestrutura para transformar incerteza técnica em entregas previsíveis e eficientes."*
+
+* ⏱️ **Eficiência Extrema em Engenharia:** Redução do tempo do ciclo de resolução de bugs críticos de **3 dias para 30 minutos** (da triagem ao deploy), através de automação autônoma de fluxos de suporte e engenharia.
+* 📉 **Otimização Extrema de Tokens & Custos:** Otimização do fluxo de IA Generativa no Discovery e Refinamento, reduzindo o consumo por sessão de **700k tokens para 3k–12k tokens** com uso de context caching e prompt engineering governado.
+* 📈 **Adoção de Produto (B2B2C):** Concepção do assistente de voz com IA (**BOSS**), contornando limitações de alfabetização digital no campo e elevando a adoção do app de **25% para 83%**.
+* 🤖 **PM que Constrói para PMs:** Desenvolvedor e mantenedor de metodologias open-source que capacitam outros Product Managers a realizar Discovery Técnico e governança de IA sem depender da engenharia.
+
+---
+
+## 🧰 Meus Projetos Open-Source (Portfólio de IA & Ferramentas)
+
+Abaixo estão os projetos onde materializo minha metodologia prática de **AI-Driven Product Management**:
+
+### 🛠️ [code-discovery-toolkit](https://github.com/danilonoleto/code-discovery-toolkit) *(Substitua pelo link real)*
+> **Health Check e Mapeamento Técnico de Código para PMs**
+* **O Problema:** PMs lidando com sistemas legados ou bases de código sem documentação sofrem com pontos cegos de arquitetura, alucinações de LLMs e estimativas falhas da engenharia.
+* **A Solução:** Framework e scripts em Python com modelagem de grafos de conhecimento (**GraphiPy**) e IA. Permite que o PM realize um "Health Check" do repositório, mapeie dependências ocultas e gere documentações canônicas e PRDs precisas antes de iniciar qualquer sprint.
+
+### 📘 [claude-code-for-pm](https://github.com/danilonoleto/claude-code-for-pm) *(Substitua pelo link real)*
+> **Capacitação e Infraestrutura de IA Generativa para Gestores de Produto**
+* **O Problema:** A maioria dos PMs usa IA de forma genérica (chat para escrever texto), sem governança ou controle de escopo sobre a base de código.
+* **A Solução:** Guia prático e conjunto de instruções, templates e evals para PMs utilizarem o **Claude Code** no fluxo de trabalho diário. Inclui padronização de engenharia de prompts, automação de testes de aceitação e integração com diretrizes rígidas de arquitetura.
+
+---
+
+## 🚀 Linha do Tempo & Experiência de Campo
 
 ### 🤖 Governança de IA & Engenharia de Requisitos para Legados (iRancho)
-*   **O Desafio:** Sistemas obsoletos e multi-módulos (Web/Mobile/Financeiro) sem histórico ativo, gerando alto risco de pontos cegos de arquitetura e refatorações automatizadas desalinhadas com o negócio[cite: 1].
-*   **A Solução:** Integrei ferramentas de IA Generativa aplicada (Claude Code) na esteira de Discovery Técnico e refinamento de PRDs[cite: 1]. Utilizei a biblioteca **GraphiPy** para modelagem de grafos de conhecimento associada à IA, automatizando a avaliação de impacto técnico e gerando documentações canônicas do zero[cite: 1].
-*   **Controle de Escopo:** Instituí o uso de frameworks de arquitetura de decisão (`decision.md`) para blindar o código-fonte, mitigando alucinações de código e impedindo refatorações não autorizadas[cite: 1].
+* **O Desafio:** Sistemas obsoletos e multi-módulos (Web/Mobile/Financeiro) sem histórico ativo, gerando alto risco de pontos cegos de arquitetura.
+* **A Solução:** Integrei **Claude Code** na esteira de Discovery Técnico e refinamento de PRDs. Utilizei **GraphiPy** para modelagem de grafos de conhecimento associada à IA, automatizando a avaliação de impacto técnico e gerando documentações do zero.
+* **Governança Aplicada:** Instituí o uso de frameworks de arquitetura de decisão (`decision.md`, `CLAUDE.md` e `AGENTS.md`) e gates humanos com evals de gatilho para blindar o código-fonte, mitigando alucinações e refatorações não autorizadas.
 
 ### 🔌 Automação de Processos de Engenharia (iRancho)
-*   **O Desafio:** Alto atrito manual e perda de eficiência no repasse de problemas técnicos do time de Suporte/Negócio para o time de Engenharia[cite: 1].
-*   **A Solução:** Desenhei e implementei de forma autônoma uma integração 100% automatizada via **n8n** conectando o HubSpot (Suporte) ao GitHub (Engenharia)[cite: 1].
-*   **Resultado:** Eliminação completa da atualização manual de status de bugs, gerando relatórios automatizados de auditoria de pendências e neutralizando o atrito operacional de triagem[cite: 1].
+* **O Desafio:** Alto atrito manual e perda de eficiência no repasse de problemas técnicos do time de Suporte/Negócio para o time de Engenharia.
+* **A Solução:** Desenhei e implementei de forma autônoma uma integração 100% automatizada via **n8n** conectando o HubSpot (Suporte) ao GitHub (Engenharia).
+* **Resultado:** Eliminação completa da atualização manual de status de bugs, gerando relatórios automatizados de auditoria de pendências e zerando o atrito de triagem.
 
 ### 🩺 Engenharia Reversa & Integração Crítica de Escala (LG lugar de gente)
-*   **O Desafio:** Um sistema legado de grandes contas B2B precisava transacionar dados de workflows complexos em ambiente de nuvem, mas sofria com documentações técnicas defasadas (manuais desatualizados há anos)[cite: 1].
-*   **A Solução:** Conduzi um processo detalhado de validação de hipóteses, testes de ambiente (FPW local e nuvem) e realizei a engenharia reversa para "ressuscitar" e estabilizar a integração crítica com a plataforma **SOC** (líder em Medicina e Segurança do Trabalho)[cite: 1]. 
-*   **Resultado:** Mapeei os gaps técnicos, documentei o fluxo ponta a ponta e virei referência técnica na empresa, liderando workshops para alinhar o time de desenvolvimento, suporte e CS sobre as regras de compliance e legislação da ferramenta[cite: 1].
+* **O Desafio:** Sistema legado de grandes contas B2B (Enterprise HCM) precisava transacionar dados em nuvem, mas sofria com documentações técnicas defasadas há anos.
+* **A Solução:** Conduzi validação de hipóteses, testes de ambiente e engenharia reversa para estabilizar a integração crítica com a plataforma **SOC** (líder em Medicina e Segurança do Trabalho).
+* **Resultado:** Mapeei os gaps técnicos, documentei o fluxo ponta a ponta e me tornei referência técnica, liderando workshops para alinhar times de dev, suporte e CS sobre regras de compliance (eSocial, NR-01).
 
 ### 📊 Inteligência de Dados & Eficiência em ERP (Saibweb & Microsum)
-*   **Minha Escola Técnica:** Atuei por anos na ponta do ecossistema de softwares de gestão (ERP), evoluindo de analista de suporte técnico até a gerência de atendimento[cite: 1]. Atendi clientes de grande porte (como PepsiCo, Grupo Seiko e distribuidores Coca-Cola) liderando implantações e parametrizações complexas[cite: 1].
-*   **Dados e Negócio:** Utilização avançada de consultas em banco de dados **SQL Server (T-SQL)** para extrair padrões de comportamento de usuários e subsidiar decisões de negócio[cite: 1]. Atuação prática com lógica de regras fiscais, faturamento, emissão de notas e homologação de meios de pagamento (Boletos, TEF e conciliação financeira)[cite: 1].
+* **Minha Escola Técnica:** Anos na ponta do ecossistema de softwares de gestão (ERP), evoluindo de suporte técnico até a gerência de atendimento em clientes de grande porte (PepsiCo, Grupo Seiko, distribuidores Coca-Cola).
+* **Dados e Negócio:** Uso avançado de consultas em banco de dados **SQL Server (T-SQL)** para extrair padrões de comportamento e subsidiar decisões. Domínio prático em regras fiscais, faturamento e conciliação financeira.
 
 ---
 
-## 💼 Minha Abordagem de Produto
+## 🛠️ Habilidades Técnicas & Governança
 
-*   **De Ponta a Ponta:** Conduzo ritos ágeis (Scrum, Kanban), desenho de workflows, escrita de User Stories com critérios de aceite em Gherkin e priorização de backlog focada em ROI e entrega de valor real[cite: 1].
-*   **Orientado a Dados:** Não decido por intuição. Minha formação técnica e experiência me permitem auditar tabelas, analisar métricas e estruturar dados antes de definir caminhos de produto[cite: 1].
-*   **Fronteira Tecnológica:** Entendo a IA Generativa e as ferramentas de automação como aceleradores reais de eficiência operacional e Discovery de produto, sabendo como aplicar governança para manter a segurança do código e do negócio[cite: 1].
-
----
-
-## 🛠️ Habilidades Técnicas & Ferramentas
-
-*   **Dados & BI:** SQL Avançado (T-SQL / SQL Server), Python para manipulação/análise de dados, Power BI, Business Intelligence[cite: 1].
-*   **Automação & IA:** Integrações via n8n, Engenharia de Prompts com foco em Governança, GraphiPy (Análise de Grafos), Claude Code, Arquitetura de APIs[cite: 1].
-*   **Frameworks de Gestão:** Scrum, Kanban, Governança de Portfólio, Gestão de Riscos, Escrita de Requisitos Técnicos[cite: 1].
+* **Governança de IA & Engenharia de Prompts:** Arquiteturas de contexto (`CLAUDE.md`, `AGENTS.md`, `decision.md`), Evals de gatilho, Gates humanos, Context Caching, RAGs, Claude Code API/CLI.
+* **Produtos & Ferramentas para PMs:** Discovery Técnico, Health Check de Software, Engenharia Reversa, GraphiPy (Análise de Grafos), Automação de PRDs.
+* **Dados & Analytics:** SQL Avançado (T-SQL / SQL Server), Python (Análise de Dados e Scripts de Automação), Power BI, Métricas SaaS.
+* **Automação & Processos:** n8n, Webhooks, APIs REST, GitHub, HubSpot, Jira, Confluence, Scrum, Kanban.
 
 ---
 
 ## 🌍 Idiomas
-*   **Português:** Nativo.
-*   **Inglês:** Prático / Leitura e escrita técnica voltada à documentação de software e arquitetura de sistemas[cite: 1].
+* **Português:** Nativo.
+* **Inglês:** Prático / Leitura e escrita técnica voltada à documentação de software e arquitetura de sistemas.
 
 ---
 
 ## 🤝 Vamos Colaborar!
-Estou aberto a conexões e discussões sobre gerenciamento de produtos técnicos (Technical Product Management), arquitetura de automações, governança de IA na esteira de desenvolvimento e otimização de grandes ecossistemas de tecnologia[cite: 1, 2]. Sinta-se à vontade para entrar em contato ou abrir uma issue!
+Estou aberto a conexões e discussões sobre AI Product Management, arquitetura de automações, governança de IA na esteira de desenvolvimento e otimização de ecossistemas SaaS. Sinta-se à vontade para entrar em contato ou abrir uma issue!
