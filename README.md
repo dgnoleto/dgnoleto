@@ -23,12 +23,12 @@ Essa bagagem "raiz" me permite traduzir regras complexas e rígidas de negócios
 
 Abaixo estão os projetos onde materializo minha metodologia prática de **AI-Driven Product Management**:
 
-### 🛠️ [code-discovery-toolkit](https://github.com/danilonoleto/code-discovery-toolkit) *(Substitua pelo link real)*
+### 🛠️ [code-discovery-toolkit](https://github.com/danilonoleto/code-discovery-toolkit) 
 > **Health Check e Mapeamento Técnico de Código para PMs**
 * **O Problema:** PMs lidando com sistemas legados ou bases de código sem documentação sofrem com pontos cegos de arquitetura, alucinações de LLMs e estimativas falhas da engenharia.
 * **A Solução:** Framework e scripts em Python com modelagem de grafos de conhecimento (**GraphiPy**) e IA. Permite que o PM realize um "Health Check" do repositório, mapeie dependências ocultas e gere documentações canônicas e PRDs precisas antes de iniciar qualquer sprint.
 
-### 📘 [claude-code-for-pm](https://github.com/danilonoleto/claude-code-for-pm) *(Substitua pelo link real)*
+### 📘 [claude-code-for-pm](https://github.com/danilonoleto/claude-code-for-pm) 
 > **Capacitação e Infraestrutura de IA Generativa para Gestores de Produto**
 * **O Problema:** A maioria dos PMs usa IA de forma genérica (chat para escrever texto), sem governança ou controle de escopo sobre a base de código.
 * **A Solução:** Guia prático e conjunto de instruções, templates e evals para PMs utilizarem o **Claude Code** no fluxo de trabalho diário. Inclui padronização de engenharia de prompts, automação de testes de aceitação e integração com diretrizes rígidas de arquitetura.
