@@ -1,77 +1,70 @@
-# Olá! Eu sou o Danilo Nolêto 👋
+# Olá, sou Danilo Nolêto 👋
 
-Siga-me no [LinkedIn](https://www.linkedin.com/in/danilog-noleto) | Contato: danilonoleto_@hotmail.com
+**Product Management · Forward Deployed Engineering · IA aplicada e integrações**
 
-Bem-vindo ao meu GitHub! Sou **Product Manager / AI Product Manager** com mais de 14 anos de trajetória em tecnologia. Minha carreira não começou em laboratório ou em cargos diretos de gestão: **construí minha base técnica na raça, vindo do suporte técnico, implantação de ERP e inteligência de dados até me tornar referência na liderança de ecossistemas digitais B2B/B2B2C complexos e governança de Inteligência Artificial.**
+Conecto problemas de negócio, operação dos clientes e tecnologia para transformar necessidades em soluções de produto.
 
-Essa bagagem "raiz" me permite traduzir regras complexas e rígidas de negócios em soluções técnicas previsíveis, conversando de igual para igual com times de engenharia de software e arquitetura de dados.
+Minha trajetória passa por suporte, implantação de ERP, análise de negócios e gestão de produtos. Essa experiência me ensinou a investigar como as pessoas trabalham, entender regras e exceções e construir soluções em colaboração com usuários e engenharia.
 
----
+Busco oportunidades como **Product Manager** e **Forward Deployed Engineer (FDE)**, especialmente em contextos que combinem discovery com clientes, sistemas SaaS/ERP, prototipação, automação e IA aplicada.
 
-## ⚡ Resultados de Impacto Em Destaque
+## Como trabalho
 
-> *"Não apenas utilizo IA no dia a dia: crio governança e infraestrutura para transformar incerteza técnica em entregas previsíveis e eficientes."*
+- **Entendo o problema:** investigo fluxos, dificuldades dos usuários, regras de negócio e limitações da operação.
+- **Estruturo a decisão:** transformo descobertas em prioridades, escopo, PRDs e critérios de aceite.
+- **Aproximo produto e tecnologia:** uso SQL, análise de código, documentação e APIs para esclarecer comportamentos e dependências.
+- **Construo e valido:** desenvolvo ferramentas e automações, exploro protótipos e colaboro com engenharia na evolução das soluções.
+- **Documento para dar continuidade:** registro evidências, decisões e limitações para apoiar implementação, treinamento e manutenção.
 
-* ⏱️ **Eficiência Extrema em Engenharia:** Redução do tempo do ciclo de resolução de bugs críticos de **3 dias para 30 minutos** (da triagem ao deploy), através de automação autônoma de fluxos de suporte e engenharia.
-* 📉 **Otimização Extrema de Tokens & Custos:** Otimização do fluxo de IA Generativa no Discovery e Refinamento, reduzindo o consumo por sessão de **700k tokens para 3k–12k tokens** com uso de context caching e prompt engineering governado.
-* 📈 **Adoção de Produto (B2B2C):** Concepção do assistente de voz com IA (**BOSS**), contornando limitações de alfabetização digital no campo e elevando a adoção do app de **25% para 83%**.
-* 🤖 **PM que Constrói para PMs:** Desenvolvedor e mantenedor de metodologias open-source que capacitam outros Product Managers a realizar Discovery Técnico e governança de IA sem depender da engenharia.
+## Projetos em destaque
 
----
+### [Code Discovery Toolkit](https://github.com/dgnoleto/code-discovery-toolkit)
 
-## 🧰 Meus Projetos Open-Source (Portfólio de IA & Ferramentas)
+Ferramentas e metodologia para investigar sistemas legados e repositórios com pouca documentação.
 
-Abaixo estão os projetos onde materializo minha metodologia prática de **AI-Driven Product Management**:
+Combina um analisador Python, prompts e modelos de relatório para apoiar o entendimento do sistema e a discussão de riscos e débitos técnicos. O script identifica duplicações, similaridade textual e possíveis arquivos não referenciados, além de permitir envio de relatórios ao Jira.
 
-### 🛠️ [code-discovery-toolkit](https://github.com/dgnoleto/code-discovery-toolkit) 
-> **Health Check e Mapeamento Técnico de Código para PMs**
-* **O Problema:** PMs lidando com sistemas legados ou bases de código sem documentação sofrem com pontos cegos de arquitetura, alucinações de LLMs e estimativas falhas da engenharia.
-* **A Solução:** Framework e scripts em Python com modelagem de grafos de conhecimento (**GraphiPy**) e IA. Permite que o PM realize um "Health Check" do repositório, mapeie dependências ocultas e gere documentações canônicas e PRDs precisas antes de iniciar qualquer sprint.
+**Conexão com meu trabalho:** transformar sinais técnicos em perguntas, evidências e decisões de produto. Os achados automáticos são hipóteses para investigação e precisam de validação.
 
-### 📘 [claude-code-for-pm](https://github.com/dgnoleto/claude-code-for-pm) 
-> **Capacitação e Infraestrutura de IA Generativa para Gestores de Produto**
-* **O Problema:** A maioria dos PMs usa IA de forma genérica (chat para escrever texto), sem governança ou controle de escopo sobre a base de código.
-* **A Solução:** Guia prático e conjunto de instruções, templates e evals para PMs utilizarem o **Claude Code** no fluxo de trabalho diário. Inclui padronização de engenharia de prompts, automação de testes de aceitação e integração com diretrizes rígidas de arquitetura.
+### [Claude Code for PM](https://github.com/dgnoleto/claude-code-for-pm)
 
----
+Conjunto de sete skills, guias e exemplos para apoiar profissionais de produto no uso de IA em discovery técnico.
 
-## 🚀 Linha do Tempo & Experiência de Campo
+Inclui investigação de código, extração de regras de negócio, análise de impacto, avaliação de débito técnico e revisão de especificações.
 
-### 🤖 Governança de IA & Engenharia de Requisitos para Legados (iRancho)
-* **O Desafio:** Sistemas obsoletos e multi-módulos (Web/Mobile/Financeiro) sem histórico ativo, gerando alto risco de pontos cegos de arquitetura.
-* **A Solução:** Integrei **Claude Code** na esteira de Discovery Técnico e refinamento de PRDs. Utilizei **GraphiPy** para modelagem de grafos de conhecimento associada à IA, automatizando a avaliação de impacto técnico e gerando documentações do zero.
-* **Governança Aplicada:** Instituí o uso de frameworks de arquitetura de decisão (`decision.md`, `CLAUDE.md` e `AGENTS.md`) e gates humanos com evals de gatilho para blindar o código-fonte, mitigando alucinações e refatorações não autorizadas.
+**Conexão com meu trabalho:** estruturar uma forma reutilizável de investigar problemas e preparar decisões com referências ao sistema. As instruções orientam o uso da IA e a revisão humana.
 
-### 🔌 Automação de Processos de Engenharia (iRancho)
-* **O Desafio:** Alto atrito manual e perda de eficiência no repasse de problemas técnicos do time de Suporte/Negócio para o time de Engenharia.
-* **A Solução:** Desenhei e implementei de forma autônoma uma integração 100% automatizada via **n8n** conectando o HubSpot (Suporte) ao GitHub (Engenharia).
-* **Resultado:** Eliminação completa da atualização manual de status de bugs, gerando relatórios automatizados de auditoria de pendências e zerando o atrito de triagem.
+### [Davi vs Filisteus](https://github.com/dgnoleto/davi-vs-filisteus)
 
-### 🩺 Engenharia Reversa & Integração Crítica de Escala (LG lugar de gente)
-* **O Desafio:** Sistema legado de grandes contas B2B (Enterprise HCM) precisava transacionar dados em nuvem, mas sofria com documentações técnicas defasadas há anos.
-* **A Solução:** Conduzi validação de hipóteses, testes de ambiente e engenharia reversa para estabilizar a integração crítica com a plataforma **SOC** (líder em Medicina e Segurança do Trabalho).
-* **Resultado:** Mapeei os gaps técnicos, documentei o fluxo ponta a ponta e me tornei referência técnica, liderando workshops para alinhar times de dev, suporte e CS sobre regras de compliance (eSocial, NR-01).
+Projeto pessoal de aprendizado e experimentação com JavaScript, Phaser e física de jogos.
 
-### 📊 Inteligência de Dados & Eficiência em ERP (Saibweb & Microsum)
-* **Minha Escola Técnica:** Anos na ponta do ecossistema de softwares de gestão (ERP), evoluindo de suporte técnico até a gerência de atendimento em clientes de grande porte (PepsiCo, Grupo Seiko, distribuidores Coca-Cola).
-* **Dados e Negócio:** Uso avançado de consultas em banco de dados **SQL Server (T-SQL)** para extrair padrões de comportamento e subsidiar decisões. Domínio prático em regras fiscais, faturamento e conciliação financeira.
+Reúne versões de PRD, especificações e uma implementação em evolução.
 
----
+**Conexão com meu trabalho:** exercitar a passagem de uma ideia para requisitos, comportamento do produto e construção incremental.
 
-## 🛠️ Habilidades Técnicas & Governança
+## Experiência aplicada
 
-* **Governança de IA & Engenharia de Prompts:** Arquiteturas de contexto (`CLAUDE.md`, `AGENTS.md`, `decision.md`), Evals de gatilho, Gates humanos, Context Caching, RAGs, Claude Code API/CLI.
-* **Produtos & Ferramentas para PMs:** Discovery Técnico, Health Check de Software, Engenharia Reversa, GraphiPy (Análise de Grafos), Automação de PRDs.
-* **Dados & Analytics:** SQL Avançado (T-SQL / SQL Server), Python (Análise de Dados e Scripts de Automação), Power BI, Métricas SaaS.
-* **Automação & Processos:** n8n, Webhooks, APIs REST, GitHub, HubSpot, Jira, Confluence, Scrum, Kanban.
+**Discovery e IA no campo — iRancho / BOSS**  
+Participei da construção de uma solução de lançamentos por voz para a operação pecuária. Minha atuação envolveu discovery com usuários, identificação de barreiras de uso, mapeamento de expressões do campo, especificação e alinhamento com a equipe técnica.
 
----
+**Entendimento de sistemas legados — Safebeef**  
+Utilizei análise de código assistida por IA para recuperar conhecimento de um sistema com pouca documentação e apoiar a elaboração de especificações, manuais e demandas com referências ao código.
 
-## 🌍 Idiomas
-* **Português:** Nativo.
-* **Inglês:** Prático / Leitura e escrita técnica voltada à documentação de software e arquitetura de sistemas.
+**Automação e integrações**  
+Trabalhei com fluxos entre suporte e engenharia, incluindo automações com n8n e integração entre ferramentas como HubSpot e GitHub.
 
----
+**Base em ERP e HCM**  
+Minha experiência em MICROSUM, Saibweb e LG lugar de gente reúne implantação, suporte, requisitos, regras de negócio, SQL e colaboração entre clientes e equipes técnicas.
 
-## 🤝 Vamos Colaborar!
-Estou aberto a conexões e discussões sobre AI Product Management, arquitetura de automações, governança de IA na esteira de desenvolvimento e otimização de ecossistemas SaaS. Sinta-se à vontade para entrar em contato ou abrir uma issue!
+## Ferramentas e práticas
+
+- **Produto:** discovery, priorização, backlog, PRDs, critérios de aceite e alinhamento de stakeholders.
+- **Dados e integrações:** SQL Server, T-SQL, APIs REST, webhooks e n8n.
+- **Construção e investigação:** Python, JavaScript, GitHub e análise de sistemas legados.
+- **IA aplicada:** Claude Code, skills, documentação baseada em código e revisão humana das conclusões.
+
+## Contato
+
+Tenho interesse em desafios que aproximem produto, clientes e construção de soluções.
+
+[LinkedIn](https://www.linkedin.com/in/danilog-noleto) · [E-mail](mailto:danilonoleto_@hotmail.com)
