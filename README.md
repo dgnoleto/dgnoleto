@@ -6,7 +6,7 @@ Conecto problemas de negócio, operação dos clientes e tecnologia para transfo
 
 Minha trajetória passa por suporte, implantação de ERP, análise de negócios e gestão de produtos. Essa experiência me ensinou a investigar como as pessoas trabalham, entender regras e exceções e construir soluções em colaboração com usuários e engenharia.
 
-Busco oportunidades como **Product Manager** e **Forward Deployed Engineer (FDE)**, especialmente em contextos que combinem discovery com clientes, sistemas SaaS/ERP, prototipação, automação e IA aplicada.
+Atuo na interseção entre **Product Management** e **Forward Deployed Engineering (FDE)**, especialmente em contextos que combinam discovery com clientes, sistemas SaaS/ERP, prototipação, automação e IA aplicada.
 
 ## Como trabalho
 
